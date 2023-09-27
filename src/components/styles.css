@@ -1,0 +1,33 @@
+.App {
+    text-align: center;
+    margin: 20px; 
+    background-color: lightgrey;
+
+  }
+  
+  .form {
+    margin-bottom: 20px;
+    text-align: center;
+    color: darkmagenta;
+
+  }
+  .Title{
+  color: darkmagenta;
+  }
+
+  .button{
+    background-color: bisque;
+    color: darkmagenta;
+   
+  }
+
+  .label{
+    color: darkmagenta;
+  }
+  .Name{
+    color: darkmagenta;
+   
+  }
+  .Number{
+    color: darkmagenta;
+  }
